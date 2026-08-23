@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://usatrenow.github.io/usatrenow/sitemap.xml
